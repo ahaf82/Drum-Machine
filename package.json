@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 { "homepage": "http://ahaf82.github.io/drum-machine",
-=======
-{ "homepage": "http://ahaf82.github.io/drum-machine"
->>>>>>> 132b99f2fd5c5b07bcdfceb1558744d5c156947c
   "name": "drum-machine",
   "version": "0.1.0",
   "private": true,
